@@ -5,7 +5,7 @@ import java.util.Date;
 import javax.persistence.*;
 
 @Entity
-@Table(name="users")
+@Table(name="user")
 public class UserPojo {
 	private long userId;
 	private String username;
@@ -22,6 +22,8 @@ public class UserPojo {
 	public long getUserId() {
 		return userId;
 	}
+	
+	@Column (length=30)
 	public String getUsername() {
 		return username;
 	}
