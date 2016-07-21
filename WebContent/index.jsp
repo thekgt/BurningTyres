@@ -70,7 +70,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="images/range.jpg" alt="Image">
+        <img src="range.jpg" alt="Image">
         <div class="carousel-caption">
           <h3>Rent A Car, Hassle Free</h3>
           <p>With Burning Tyres</p>
