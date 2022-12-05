@@ -3,7 +3,7 @@ CDAC Project
 
 Repository For Project at CDAC: 
 
-Project Manger-Contributors : 
+Project Contributors: 
 
 1) Kumar Gandharva Aman Tripathi
 2) Yatesh Kumar Mathuria
